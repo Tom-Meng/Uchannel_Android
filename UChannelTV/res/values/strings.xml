@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UChannelTV</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Root Category -->
+    <string name="txt_finance">Finance Focus</string>
+    <string name="txt_life">Life of Victory</string>
+    <string name="txt_news">Daily News</string>
+    <string name="txt_events">Events</string>
+    <string name="txt_love">True Love</string>
+
+    <!-- Extra -->
+    <string name="txt_universalpin">Universal Pin</string>
+    <string name="txt_forgot_pass"><u>Forgot Password?</u></string>
+    <string name="txt_login">Login</string>
+    <string name="txt_signin">Sign In</string>
+    <string name="txt_signup">New User ? Signup Here</string>
+
+</resources>
